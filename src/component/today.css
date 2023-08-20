@@ -8,7 +8,7 @@
   font-size: xx-large;
 }
 .today_card {
-  margin-top: 1rem;
+  margin:auto;
   display: flex;
   background-color: #fff;
   border-radius: 2rem;
